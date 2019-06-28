@@ -24,3 +24,5 @@ URLs Mapping:
   Detailed data for provider: http://localhost/providers/1/
   List of polygon: http://localhost/polygons/
   Detailed data for a polygon: http://localhost/polygons/1
+
+PNG files (Django Rest api screens) are attached for Reference.
